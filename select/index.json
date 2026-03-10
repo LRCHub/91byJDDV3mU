@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Perfect Strangers",
+  "base_artist": "Jonas Blue",
+  "createdAt": "2026-03-10T03:25:19.976938Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crimson Blue - From Nine Perfect Strangers",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/01_Crimson_Blue_-_From_Nine_Perfect_Strangers_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/02_Perfect_Strangers_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/03_Perfect_Strangers_INXS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Pretty Maids",
+      "has_synced": false,
+      "path": "select/04_Perfect_Strangers_Pretty_Maids.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/05_Perfect_Strangers_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Perfect Strangers (Deep Purple Cover, Live at BBC Studios, London, 31 January...",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/06_Perfect_Strangers_(Deep_Purple_Cover,_Live_at_BBC_Studios,_London,_31_January..._Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Cairobi",
+      "has_synced": false,
+      "path": "select/07_Perfect_Strangers_Cairobi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/08_Perfect_Strangers_Deep_Purple.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Perfect Strangers (Live)",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/09_Perfect_Strangers_(Live)_Deep_Purple.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Jonas Blue feat. AOA",
+      "has_synced": true,
+      "path": "select/10_Perfect_Strangers_Jonas_Blue_feat._AOA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Jonas Blue",
+      "has_synced": true,
+      "path": "select/11_Perfect_Strangers_Jonas_Blue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Jonas Blue feat. JP Cooper",
+      "has_synced": true,
+      "path": "select/12_Perfect_Strangers_Jonas_Blue_feat._JP_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Jonas Blue/JP Cooper",
+      "has_synced": true,
+      "path": "select/13_Perfect_Strangers_Jonas_Blue_JP_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Jonas Blue Ft JP Cooper",
+      "has_synced": true,
+      "path": "select/14_Perfect_Strangers_Jonas_Blue_Ft_JP_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Perfect Strangers - CTS Remix",
+      "artist": "Jonas Blue, JP Cooper & CTS",
+      "has_synced": true,
+      "path": "select/15_Perfect_Strangers_-_CTS_Remix_Jonas_Blue,_JP_Cooper_&_CTS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Perfect Strangers (feat. JP Cooper)",
+      "artist": "Jonas Blue, JP Cooper",
+      "has_synced": true,
+      "path": "select/16_Perfect_Strangers_(feat._JP_Cooper)_Jonas_Blue,_JP_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/17_Perfect_Strangers_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/18_Perfect_Strangers_Deep_Purple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Perfect Strangers",
+      "artist": "Jonas Blue, JP Cooper",
+      "has_synced": false,
+      "path": "select/pl_01_Perfect_Strangers_Jonas_Blue,_JP_Cooper.txt"
+    }
+  ]
+}
